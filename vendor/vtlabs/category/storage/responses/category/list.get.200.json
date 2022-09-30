@@ -1,0 +1,65 @@
+[
+    {
+        "id": 2,
+        "slug": "comedy",
+        "title": "Comedy",
+        "title_translations": {
+            "en": "Comedy"
+        },
+        "meta": {
+            "color": "#6dd753"
+        },
+        "sort_order": 1,
+        "mediaurls": {
+            "images": [
+                {
+                    "default": "https://app.publishingafrica.com/storage/2/200.png",
+                    "thumb": "https://app.publishingafrica.com/storage/2/conversions/200-thumb.jpg"
+                }
+            ]
+        },
+        "parent_id": 1
+    },
+    {
+        "id": 3,
+        "slug": "drama",
+        "title": "Drama",
+        "title_translations": {
+            "en": "Drama"
+        },
+        "meta": {
+            "color": "#f21d87"
+        },
+        "sort_order": 2,
+        "mediaurls": {
+            "images": [
+                {
+                    "default": "https://app.publishingafrica.com/storage/3/200.png",
+                    "thumb": "https://app.publishingafrica.com/storage/3/conversions/200-thumb.jpg"
+                }
+            ]
+        },
+        "parent_id": 1
+    },
+    {
+        "id": 4,
+        "slug": "action",
+        "title": "Action",
+        "title_translations": {
+            "en": "Action"
+        },
+        "meta": {
+            "color": "#c07242"
+        },
+        "sort_order": 3,
+        "mediaurls": {
+            "images": [
+                {
+                    "default": "https://app.publishingafrica.com/storage/4/200.png",
+                    "thumb": "https://app.publishingafrica.com/storage/4/conversions/200-thumb.jpg"
+                }
+            ]
+        },
+        "parent_id": 1
+    }
+]

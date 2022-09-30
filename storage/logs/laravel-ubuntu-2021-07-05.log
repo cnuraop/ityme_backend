@@ -1,0 +1,9 @@
+[2021-07-05 07:38:35] local.WARNING: Push Notification: Missing notfication id {"role":"customer","userId":8} 
+[2021-07-05 07:45:41] local.WARNING: Push Notification: Missing notfication id {"role":"delivery","userId":7} 
+[2021-07-05 07:45:41] local.WARNING: Push Notification: Missing notfication id {"role":"vendor","userId":6} 
+[2021-07-05 07:45:41] local.WARNING: Push Notification: Missing notfication id {"role":"delivery","userId":7} 
+[2021-07-05 07:45:41] local.WARNING: Push Notification: Missing notfication id {"role":"vendor","userId":8} 
+[2021-07-05 07:45:42] local.WARNING: Push Notification: Missing notfication id {"role":"delivery","userId":7} 
+[2021-07-05 07:48:14] local.WARNING: Push Notification: Missing notfication id {"role":"customer","userId":6} 
+[2021-07-05 07:55:42] local.WARNING: Push Notification: Missing notfication id {"role":"doctor","userId":6} 
+[2021-07-05 07:57:02] local.WARNING: Push Notification: Missing notfication id {"role":"customer","userId":6} 

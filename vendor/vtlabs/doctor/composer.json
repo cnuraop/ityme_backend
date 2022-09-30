@@ -1,0 +1,40 @@
+{
+    "name": "vtlabs/doctor",
+    "description": "Doctor modules",
+    "keywords": [],
+    "homepage": "http://verbosetechlabs.com/",
+    "authors": [
+        {
+            "name": "Ujjwal Wahi",
+            "email": "support@verbosetechlabs.com",
+            "homepage": "http://verbosetechlabs.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^6.0",
+        "vtlabs/core": "^1.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Vtlabs\\Doctor\\": "src"
+        }
+    },
+    "autoload-dev": {
+    },
+    "scripts": {
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vtlabs\\Doctor\\DoctorServiceProvider",
+                "Vtlabs\\Doctor\\Providers\\EventServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "omnis corporis",
+        "short_description": "Quam unde quo minima et.",
+        "description": "Ad quae voluptas aut corporis neque. Sit impedit voluptas qui id sit. Ut eveniet eos temporibus quia occaecati sit repellendus. In molestiae modi qui.",
+        "meta": null,
+        "created_at": "2020-09-14T01:21:10.000000Z",
+        "updated_at": "2020-09-14T01:21:10.000000Z"
+    },
+    {
+        "id": 2,
+        "title": "voluptas maiores",
+        "short_description": "Aut ut cumque vero omnis.",
+        "description": "Sint velit voluptatem sed ut at ullam. Aut corporis explicabo dignissimos nihil et. Sunt dicta et sunt mollitia qui eos consequatur in.",
+        "meta": null,
+        "created_at": "2020-09-14T01:21:10.000000Z",
+        "updated_at": "2020-09-14T01:21:10.000000Z"
+    },
+    {
+        "id": 3,
+        "title": "libero soluta",
+        "short_description": "Rerum temporibus repudiandae hic et.",
+        "description": "Reiciendis et non voluptas illo ab. Iste sequi quisquam quas et. Modi aut sunt nihil tempora consequatur. Quo et provident voluptas ullam.",
+        "meta": null,
+        "created_at": "2020-09-14T01:21:10.000000Z",
+        "updated_at": "2020-09-14T01:21:10.000000Z"
+    },
+    {
+        "id": 4,
+        "title": "debitis sunt",
+        "short_description": "Aut et ut sit explicabo.",
+        "description": "Consequuntur impedit ratione sint voluptas quo quisquam non. Et numquam quo repellat ratione qui. Quia et consequuntur enim reprehenderit recusandae ipsam consequuntur.",
+        "meta": null,
+        "created_at": "2020-09-14T01:21:10.000000Z",
+        "updated_at": "2020-09-14T01:21:10.000000Z"
+    },
+    {
+        "id": 5,
+        "title": "fuga quia",
+        "short_description": "Suscipit ducimus quis impedit ut corporis odio.",
+        "description": "Numquam veniam possimus distinctio velit non dolor. Voluptatem reprehenderit dolor praesentium voluptas. Ex porro nisi dolor magni.",
+        "meta": null,
+        "created_at": "2020-09-14T01:21:10.000000Z",
+        "updated_at": "2020-09-14T01:21:10.000000Z"
+    }
+]

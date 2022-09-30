@@ -1,0 +1,9 @@
+{
+    "appName": "iTYME",
+    "apiBaseUrl": "https://admin.Ityme.in/api/admin",
+    "mapsApiKey": "AIzaSyBnfBcR77n4URrn2dv-vWnJAIiJwtQCX9M",
+    "developerName": "Jeevamrut Pvt. Ltd",
+    "developerUrl": "",
+    "defaultCategoryScope": "ecommerce",
+    "defaultBannerScope": "ecommerce"
+}

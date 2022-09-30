@@ -1,0 +1,39 @@
+{
+    "name": "vtlabs/appointments",
+    "description": "Appointments modules",
+    "keywords": [],
+    "homepage": "http://verbosetechlabs.com/",
+    "authors": [
+        {
+            "name": "Ujjwal Wahi",
+            "email": "support@verbosetechlabs.com",
+            "homepage": "http://verbosetechlabs.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^6.0",
+        "vtlabs/core": "^1.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Vtlabs\\Appointment\\": "src"
+        }
+    },
+    "autoload-dev": {
+    },
+    "scripts": {
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vtlabs\\Appointment\\AppointmentServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "vtlabs/artisan",
+    "description": "Laravel artisan related functionalities",
+    "type": "project",
+    "require": {
+        "laravel/framework": "~5.7.0|~5.8.0|^6.0"
+    },
+    "authors": [
+        {
+            "name": "Ujjwal Wahi",
+            "email": "w.ujjwal@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vtlabs\\Artisan\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vtlabs\\Artisan\\ArtisanServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev"
+}

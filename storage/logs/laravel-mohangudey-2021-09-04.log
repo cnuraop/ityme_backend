@@ -1,0 +1,17 @@
+[2021-09-04 11:47:11] local.ERROR: include(/Users/mohangudey/Downloads/Projects/BE/vendor/composer/../brotzka/laravel-dotenv-editor/src/DotenvEditorServiceProvider.php): failed to open stream: No such file or directory {"exception":"[object] (ErrorException(code: 0): include(/Users/mohangudey/Downloads/Projects/BE/vendor/composer/../brotzka/laravel-dotenv-editor/src/DotenvEditorServiceProvider.php): failed to open stream: No such file or directory at /Users/mohangudey/Downloads/Projects/BE/vendor/composer/ClassLoader.php:444)
+[stacktrace]
+#0 /Users/mohangudey/Downloads/Projects/BE/vendor/composer/ClassLoader.php(444): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'include(/Users/...', '/Users/mohangud...', 444, Array)
+#1 /Users/mohangudey/Downloads/Projects/BE/vendor/composer/ClassLoader.php(444): include()
+#2 /Users/mohangudey/Downloads/Projects/BE/vendor/composer/ClassLoader.php(322): Composer\\Autoload\\includeFile('/Users/mohangud...')
+#3 [internal function]: Composer\\Autoload\\ClassLoader->loadClass('Brotzka\\\\DotenvE...')
+#4 /Users/mohangudey/Downloads/Projects/BE/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(679): spl_autoload_call('Brotzka\\\\DotenvE...')
+#5 /Users/mohangudey/Downloads/Projects/BE/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(613): Illuminate\\Foundation\\Application->resolveProvider('Brotzka\\\\DotenvE...')
+#6 /Users/mohangudey/Downloads/Projects/BE/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('Brotzka\\\\DotenvE...')
+#7 /Users/mohangudey/Downloads/Projects/BE/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(593): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#8 /Users/mohangudey/Downloads/Projects/BE/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#9 /Users/mohangudey/Downloads/Projects/BE/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(219): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#10 /Users/mohangudey/Downloads/Projects/BE/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(320): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#11 /Users/mohangudey/Downloads/Projects/BE/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(129): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#12 /Users/mohangudey/Downloads/Projects/BE/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#13 {main}
+"} 

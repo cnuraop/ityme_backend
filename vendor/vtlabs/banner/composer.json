@@ -1,0 +1,29 @@
+{
+    "name": "vtlabs/banner",
+    "type": "project",
+    "description": "Banner in Laravel",
+    "require": {
+        "laravel/framework": "^6.0",
+        "vtlabs/core": "^1.0"
+    },
+
+    "authors": [
+        {
+            "name": "Ujjwal Wahi",
+            "email": "w.ujjwal@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vtlabs\\Banner\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vtlabs\\Banner\\BannerServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev"
+}

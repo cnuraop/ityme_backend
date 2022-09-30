@@ -1,0 +1,29 @@
+{
+    "name": "vtlabs/faq",
+    "type": "project",
+    "description": "Faq in Laravel",
+    "require": {
+        "laravel/framework": "^6.0",
+        "vtlabs/core": "^1.0"
+    },
+
+    "authors": [
+        {
+            "name": "Ujjwal Wahi",
+            "email": "w.ujjwal@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vtlabs\\Faq\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vtlabs\\Faq\\FaqServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev"
+}
